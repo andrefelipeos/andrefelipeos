@@ -1,4 +1,4 @@
-- 🌱 I am learning and practicing **Spring**, **Angular** and **Vue.js**.
+- 🌱 I have been learning and practicing **Spring**, **Angular** and **Vue.js**.
 - 💪 I am used to programming with **Java** and **TypeScript**.
 
 <!---
